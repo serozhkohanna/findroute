@@ -1,0 +1,11 @@
+.page-steps {
+  .steps-form {
+    .form-content {
+      display: none;
+
+      &.is-active {
+        display: block;
+      }
+    }
+  }
+}
