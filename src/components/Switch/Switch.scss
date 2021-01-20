@@ -1,0 +1,7 @@
+.tab-item {
+  opacity: .2;
+
+  &.is-active {
+    opacity: 1;
+  }
+}
